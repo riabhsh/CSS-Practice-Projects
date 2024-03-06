@@ -1,4 +1,4 @@
-# Sharingan
+# Sharingan (CSS Flexbox Only)
 If you are a Naruto fan then you will Understand ;)
 
 ## Preview
