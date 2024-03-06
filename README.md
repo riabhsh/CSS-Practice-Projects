@@ -1,5 +1,5 @@
 # Sharingan
-if you are Naruto fan then you will Understand ;)
+If you are a Naruto fan then you will Understand ;)
 
 ## Preview
 https://codepen.io/riabhsh/full/ExMGepe
