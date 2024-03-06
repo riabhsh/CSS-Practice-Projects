@@ -1,0 +1,8 @@
+# Sharingan
+if you are Naruto fan then you will Understand ;)
+
+## Preview
+https://codepen.io/riabhsh/full/ExMGepe
+
+## Demo
+![Sharingan Image Preview](https://raw.githubusercontent.com/riabhsh/Sharingan/main/Screenshot.png)
